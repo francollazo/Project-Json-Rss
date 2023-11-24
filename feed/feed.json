@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programing languages",
+    "home_page_url": "https://francollazo.github.io/Project-Json-Rss/",
+    "feed_url": "https://francollazo.github.io/Project-Json-Rss/feed/feed.json",
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is python",
+            "url": "https://francollazo.github.io/Project-Json-Rss/python.html"
+        },
+        {
+            "id": "1",
+            "content_html": "<p>Hello Java!</p>",
+            "url": "https://francollazo.github.io/Project-Json-Rss/java.html"
+        }
+    ]
+}
